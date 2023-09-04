@@ -10,4 +10,5 @@ A simple C# code to check whether the input entered by the user are palindrome. 
 6. The system exit if the user choose "No".
 
 # Preview Image 
-<img width="303" alt="Screenshot 2023-09-04 154833" src="https://github.com/AidaAtikah/PalindromeChecker/assets/142037347/7e9128ed-ed4b-47e4-ae1f-f31fc8c820bd">
+
+<img width="303" alt="Screenshot 2023-09-04 154833" src="https://github.com/AidaAtikah/PalindromeChecker/assets/142037347/cd5ebc69-202c-48de-8f92-a3c3b1df38a8">
